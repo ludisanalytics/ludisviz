@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-=======
 # Mac files
 .DS_Store
 
 # History files
 .Rhistory
 .Rapp.history
+
+# Build files
+.Rbuildignore
 
 # Session Data files
 .RData
@@ -28,6 +25,7 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -46,4 +44,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
->>>>>>> master
